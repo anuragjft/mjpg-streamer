@@ -1,0 +1,13 @@
+env
+venv
+.env
+asset
+config
+data
+salesenv
+executorch
+Load Test Documents PC.AI
+node_modules
+chatenv
+senv
+renv
